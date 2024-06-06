@@ -5,7 +5,7 @@ Youtube-video program
 15 hours
 
 ### View Admin
-![View Admin)](https://github.com/meguvercin/Youtube-video-program/assets/105549919/952fb5a6-47b1-4629-aeee-9cd9be653784)
+![View Admin](https://github.com/meguvercin/Youtube-video-program/assets/105549919/952fb5a6-47b1-4629-aeee-9cd9be653784)
 
 ### Main Page
 ![Main Page](https://github.com/meguvercin/Youtube-video-program/assets/105549919/b3358e41-51d6-4315-9661-8b35579b55f1)
